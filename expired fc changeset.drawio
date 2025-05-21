@@ -240,17 +240,8 @@
         <mxCell id="poMI8xWjBXQtKEW0WlzC-19" value="osmosis download delta files" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="poMI8xWjBXQtKEW0WlzC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="poMI8xWjBXQtKEW0WlzC-22" target="poMI8xWjBXQtKEW0WlzC-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="poMI8xWjBXQtKEW0WlzC-22" value="group by changeset id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="-50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="poMI8xWjBXQtKEW0WlzC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poMI8xWjBXQtKEW0WlzC-24" target="WjDSU4Vnf71-LKj2FM2g-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="poMI8xWjBXQtKEW0WlzC-24" value="sort changeset" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
