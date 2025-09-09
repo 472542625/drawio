@@ -245,26 +245,22 @@
         <mxCell id="poMI8xWjBXQtKEW0WlzC-19" value="osmosis download delta files" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="-280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="poMI8xWjBXQtKEW0WlzC-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="poMI8xWjBXQtKEW0WlzC-31" target="poMI8xWjBXQtKEW0WlzC-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="poMI8xWjBXQtKEW0WlzC-31" value="filter delta way and node" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="-40" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="poMI8xWjBXQtKEW0WlzC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="poMI8xWjBXQtKEW0WlzC-34" target="WjDSU4Vnf71-LKj2FM2g-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="poMI8xWjBXQtKEW0WlzC-34" value="group by changeset id" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Fz5fM2z5-xygH_-FvLDB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poMI8xWjBXQtKEW0WlzC-37" target="poMI8xWjBXQtKEW0WlzC-31">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Fz5fM2z5-xygH_-FvLDB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="poMI8xWjBXQtKEW0WlzC-37" target="poMI8xWjBXQtKEW0WlzC-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="-20" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="poMI8xWjBXQtKEW0WlzC-37" value="clip delta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fz5fM2z5-xygH_-FvLDB-2" value="1. only modify waynode&lt;div&gt;2.filter fc!=1 highway&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="-120" width="270" height="110" as="geometry" />
+          <mxGeometry x="-230" y="-90" width="270" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
