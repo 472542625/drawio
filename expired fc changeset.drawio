@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="第 1 页" id="OYPPoNtJcvD3CVvJOCVI">
     <mxGraphModel dx="1426" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,12 +245,6 @@
         <mxCell id="poMI8xWjBXQtKEW0WlzC-19" value="osmosis download delta files" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="-280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="poMI8xWjBXQtKEW0WlzC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="poMI8xWjBXQtKEW0WlzC-22" target="poMI8xWjBXQtKEW0WlzC-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="poMI8xWjBXQtKEW0WlzC-22" value="osmium merge delta file" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="-120" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="poMI8xWjBXQtKEW0WlzC-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="poMI8xWjBXQtKEW0WlzC-31" target="poMI8xWjBXQtKEW0WlzC-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -263,7 +257,7 @@
         <mxCell id="poMI8xWjBXQtKEW0WlzC-34" value="group by changeset id" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="poMI8xWjBXQtKEW0WlzC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="poMI8xWjBXQtKEW0WlzC-37" target="poMI8xWjBXQtKEW0WlzC-22" edge="1">
+        <mxCell id="Fz5fM2z5-xygH_-FvLDB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poMI8xWjBXQtKEW0WlzC-37" target="poMI8xWjBXQtKEW0WlzC-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="poMI8xWjBXQtKEW0WlzC-37" value="clip delta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
