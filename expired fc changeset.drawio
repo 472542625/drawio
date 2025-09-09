@@ -263,6 +263,9 @@
         <mxCell id="poMI8xWjBXQtKEW0WlzC-37" value="clip delta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="-200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Fz5fM2z5-xygH_-FvLDB-2" value="1. only modify waynode&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-30" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
